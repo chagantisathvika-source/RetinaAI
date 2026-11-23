@@ -127,6 +127,30 @@ These visualizations help users understand which image regions influenced the pr
 
 RetinaAI is an academic project developed for educational and research purposes. It is not a clinically validated diagnostic system and must not be used as a substitute for professional medical examination or advice.
 
+
+## Website Screenshots
+
+### 1. RetinaAI Dashboard
+![Dashboard](Dashboard.png)
+
+### 2. Diabetic Retinopathy Analysis
+![DR Analysis](DR%20Analysis.png)
+
+### 3. Prediction Graph
+![Graph](Graph.png)
+
+### 4. Grad-CAM Heatmap
+![Heatmap](Heatmap.png)
+
+### 5. Overlay Visualization
+![Overlay](Overlay%20visualization.png)
+
+### 6. Analysis Report
+![Report](report.png)
+
+
+
+
 ## Author
 
 **Sathvika Chaganti**
